@@ -1,0 +1,40 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .htaccess
+#	new file:   README.md
+#	new file:   blocks/wi-feedback-conf.php
+#	new file:   blocks/wi-feedback.php
+#	new file:   css/ajax-loader.gif
+#	new file:   css/bootstrap.min.css
+#	new file:   css/font-awesome.min.css
+#	new file:   css/magnific-popup.min.css
+#	new file:   css/owl.carousel.min.css
+#	new file:   css/owl.video.play.png
+#	new file:   css/styles.css
+#	new file:   css/wi-feedback.min.css
+#	new file:   fonts/FontAwesome.otf
+#	new file:   fonts/fontawesome-webfont.eot
+#	new file:   fonts/fontawesome-webfont.svg
+#	new file:   fonts/fontawesome-webfont.ttf
+#	new file:   fonts/fontawesome-webfont.woff
+#	new file:   fonts/fontawesome-webfont.woff2
+#	new file:   img/slideshow/slide1.jpg
+#	new file:   img/slideshow/slide2.jpg
+#	new file:   img/slideshow/slide3.jpg
+#	new file:   index.html
+#	new file:   js/angular-locale_ru-by.js
+#	new file:   js/angular.min.js
+#	new file:   js/jquery-3.2.1.min.js
+#	new file:   js/jquery.magnific-popup.min.js
+#	new file:   js/jquery.wi-feedback.min.js
+#	new file:   js/owl.carousel.min.js
+#	new file:   js/script.js
+#	new file:   price.json
+#
+
